@@ -1,0 +1,25 @@
+--------------------------------------------------------------------------------
+  OPERATORS, VARIABLES, AND FUNCTIONS:                                  Quit()
+  +  Sin(#)  Csc(#)    Arcsin(#)  Arccsc(#)   Sinh(#)  Arcsinh(#)  Degtorad(#)
+  -  Cos(#)  Sec(#)    Arccos(#)  Arcsec(#)   Cosh(#)  Arccosh(#)  Radtodeg(#)
+  *  Tan(#)  Cot(#)    Arctan(#)  Arccot(#)   Tanh(#)  Arctanh(#)  ans, Ans(n)
+  /  Rand() "0-1 incl" Randint(#) Logn(n,#)   Ln(#)    E "*10^"    Lastinput()
+  || Abs(#)  Trunc(#)  Sqrt(#)    Nroot(n,#)      Intapprox("rule",a,b,n,f(x))
+  %  "Mod"   Round(#,E,"normal/down/up/orderofm") Convert(#,"","") "Unit conv"
+  ^  Timetocompute(#) pi, phi, e, g, G  Ctrl+Shft+V "Paste"   n, Seq(i,n,f(n))       
+  !  Remem() Bintodec(#)  Hextodec(#)   a_(i-#)   "Get term"  n, Sum(i,n,f(n))
+
+  NON-REAL-VALUED FUNCTIONS:                                            Help()
+  =  Mem("") Dectobin(#)  Dectohex(#) Seta_(n,#)  "Init"  ==, >, <, >=, <=, !=
+  x, F(x0,xn,Dx,f(x))  "Function" Settings()  Setrad() Setdeg()  Essayinfo("")
+  t, Fparam(t0,tn,Dt,f(t),g(t))       Dateafter(YYYY,MM,DD,hh,mm,ss)    Time()  
+  @  "Cmnt"  Morse("")    Encode("key","string")  Frac(#)     Printfunctions()  
+  () [] {}   Braille("")  Decode("key","string")  
+--------------------------------------------------------------------------------
+  @ = NOT YET IMPLEMENTED
+  Printsourcecode()???
+  //Essayinfo: chars, wds, sent.s, pgphs, num diff wds, num !, num ?, num ,, num pg
+  
+  Saveastext("name")??? or Savelog()??, Showlog(), Clearlog()
+  &(@) "Non-real in-btw."???
+  Setprecision()
